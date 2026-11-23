@@ -1,0 +1,38 @@
+{
+  "brand": "Urban Apparel",
+  "stores": [
+    {
+      "id": "nyc-downtown",
+      "name": "Urban Apparel — Downtown Manhattan",
+      "domain": "1kqwgt-aq.myshopify.com",
+      "mode": "live",
+      "city": "New York",
+      "region": "Northeast",
+      "type": "street",
+      "tags": ["flagship"],
+      "aliases": ["manhattan", "downtown nyc", "nyc flagship", "store 01"]
+    },
+    {
+      "id": "nyc-queens-mall",
+      "name": "Urban Apparel — Queens Center Mall",
+      "domain": "urban-nyc-queens.myshopify.com",
+      "mode": "mock",
+      "city": "New York",
+      "region": "Northeast",
+      "type": "mall",
+      "tags": [],
+      "aliases": ["queens", "queens mall", "queens center", "store 02"]
+    },
+    {
+      "id": "boston-downtown",
+      "name": "Urban Apparel — Downtown Boston Outlet",
+      "domain": "urban-boston-downtown.myshopify.com",
+      "mode": "mock",
+      "city": "Boston",
+      "region": "Northeast",
+      "type": "street",
+      "tags": ["outlet"],
+      "aliases": ["boston", "boston outlet", "store 03"]
+    }
+  ]
+}

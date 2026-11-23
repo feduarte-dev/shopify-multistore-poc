@@ -1,0 +1,16 @@
+{
+  "name": "shopify-multistore-poc",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "POC: orchestrator + one agent per Shopify store via MCP (mock or real API)",
+  "scripts": {
+    "test": "node scripts/smoke-test.js",
+    "reset": "node scripts/reset.js",
+    "check-live": "node scripts/check-live.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0",
+    "zod": "^4.6.7"
+  }
+}

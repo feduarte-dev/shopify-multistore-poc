@@ -1,0 +1,7 @@
+{
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": ["mcp__shopify__list_stores", "mcp__shopify__resolve_store", "mcp__shopify__get_shop_info", "mcp__shopify__search_products", "mcp__shopify__get_product", "mcp__shopify__list_orders", "mcp__shopify__get_sales_summary"],
+    "ask": ["mcp__shopify__update_variant_price", "mcp__shopify__create_product", "mcp__shopify__set_inventory"]
+  }
+}
