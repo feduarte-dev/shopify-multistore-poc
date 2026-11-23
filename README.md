@@ -1,3 +1,6 @@
+https://www.loom.com/share/cd930fa28fa14b5b9e41c19b3fc7e2ed - > Repo overview
+https://www.loom.com/share/e0f2ca2954df473c978ec0d0d16bdded -> Product test
+
 # POC — Shopify multi-store orchestrator (Claude Code + MCP)
 
 Feasibility proof for a retail brand with several Shopify stores: you talk to **one orchestrator**, it figures out
